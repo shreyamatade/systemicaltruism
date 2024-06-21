@@ -13,7 +13,7 @@ def create_gif_from_video(video_path, gif_path, start_time, duration):
 # Example usage:
 video_path = r".\loom-video.mp4"
 gif_path = r"output\output"
-start_time = [56,63,66,71,74,78,87]
+start_time = [56,63,66,71,74,78,87,90,92,95]
 duration = 1
 
 for i in start_time:
